@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shinadeveloper
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on newer technoligies
-- 📫 How to reach me currently contact only
+- 👀 I’m interested in Newer Technoligies
+- 🌱 I’m currently learning App Development
+- 💞️ I’m looking to collaborate on Hackathons , projects and more.....
+- 
+
 
 <!---
 shinadeveloper/shinadeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
